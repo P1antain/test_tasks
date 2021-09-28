@@ -2,8 +2,7 @@
 <h2>Для запуска:</h2> 
  Скопировать репозиторий к себе `git clone https://github.com/P1antain/test_tasks.git`
 
->Зайти в папку back 
-
+>Зайти в папку back
 >> `npm install -D json-server json-server-auth` 
 > 
 >> `npm start`
