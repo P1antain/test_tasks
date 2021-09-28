@@ -1,6 +1,6 @@
 #Тестовое задание
 <h2>Для запуска:</h2> 
-> скопировать репозиторий к себе `git clone https://github.com/P1antain/test_tasks.git`
+ Скопировать репозиторий к себе `git clone https://github.com/P1antain/test_tasks.git`
 
 >Зайти в папку back 
 
