@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$SF/TGLObTETpvOX5oqad.eYbWtq2ACGf5i0JFVRbmULdzkyxUrlay",
+      "id": 1
+    },
+    {
+      "email": "blabla@mail.com",
+      "password": "$2a$10$.YCxHCpebPZBb1qnyqCVOOccuy9R3Lw1qJxXpb4ioZFWuafvJe44.",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "name": "ЯКУККИИИИ",
+      "tel": "+79266315615",
+      "id": 8
+    }
+  ]
+}
