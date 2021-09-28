@@ -1,1 +1,3 @@
-json-server db.json -m ./node_modules/json-server-auth
+# Для запуска
+1) npm install -D json-server json-server-auth 
+2) npm start
