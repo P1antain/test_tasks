@@ -1,0 +1,40 @@
+.burger{
+    display: flex;
+    margin: 0 auto 20px;
+}
+.form{
+    max-width: 300px;
+    display: none;
+    flex-direction: column;
+    padding: 0 10px;
+    margin: 0 auto 20px;
+}
+.form_active{
+    display: flex;
+}
+.label{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px 0 0;
+}
+.error{
+    color: red;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.btn{
+
+    font-size: 15px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    padding: 5px 0;
+    margin-top: 10px;
+    cursor: pointer;
+}

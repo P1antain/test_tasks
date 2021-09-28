@@ -1,0 +1,9 @@
+.page {
+  padding: 10px;
+}
+.list {
+  margin: 0;
+  padding: 0 10px;
+  background-color: white;
+  border-radius: 5px;
+}
